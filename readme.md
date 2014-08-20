@@ -6,7 +6,7 @@ For tonight's lab, we'd like you to create a Blog app where a user can create a 
 
 1. Each post should have a title, description and author
 2. Each tag should have a name
-3. Remember that many blogs can have many tags, and many tags can belong to multiple authors
+3. Remember that many posts can have many tags, and many tags can belong to multiple posts
 
 
 ## How to get started
